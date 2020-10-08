@@ -1,0 +1,24 @@
+Rubrik:
+Black and white photography/cinematography.
+
+Beskrivning:
+
+Världen är fylld utav färger, från blå himmel, till den brun jord, till gul spya, färger som är tilltalande, eller avskyvärda.
+Det är bevisat att färger har en påverkan på vårt beteende, rött ger en känsla av ilska, blått ger en känsla av frid, men det finns också en del som många underskattar inom färgens spektrum, nämligen det svarta och det vita!
+Mitt projekt kommer gå ut på att skapa en websidas layout som är inget annat än estetiskt tilltalande, där inte en pixel av de tre grundfärgerna får existera. Det vill säga layoutens nyanser, dess kontraster och dess utformning.
+Temat som denna layout ska baseras på är osäker, världen är för färgrik på ett sätt, men troligen kommer det bli fotografering eller filmfotografi, jag är dock öppen för andra idéer!
+
+Risker som kan och kommer uppstå är flera, bla:
+* Att projektet vilseleds, speciellt då jag är mycket på temat.
+* Att kunna hantera kombination av svärta/vita och sedan tillämpa detta till en tilltalande layout utan att den väcker negativa känslor (tråkighet, ilska, etc.)
+* Att se till så att kontraster inte skär sig med varandra, att allt går ihop som smör och bröd.
+* Att för mig personligen inte ge upp på ett tidigt stadium då detta är ett nytt sätt för mig att tänka inom design och front-end.
+* Att jag fokuserar för mycket tid på den grafiska delen och inte på det tekniska.
+
+Resurser:
+Teknisk utrustning, internet, design-böcker, webbprogrammerings-böcker samt lärare.
+
+Handledning - hjälp:
+Är osäker på detta, då jag behöver handledning utav någon som både vet design och layout, men också det tekniska ifall jag springer på ett fel i min kod. 
+
+Skriven av Martin Larsson

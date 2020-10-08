@@ -1,0 +1,1 @@
+This folder contains images and assets related to the project report, not the project itself.

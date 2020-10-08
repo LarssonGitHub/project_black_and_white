@@ -1,0 +1,36 @@
+Feedback 1:
+
+https://caniuse.com/?search=flex
+
+CanIuse.com
+
+Ensidshemsida 
+
+single-page website
+
+
+Egen utvecklad hemsida, små kompnenter som du kan ändra på.
+
+Navigivationsbar respoinsiv (t.ex. studentprotalen), sökfält, (javascript, senare), GÖR HEMSIDAN I SMÅ KOMPENTER.
+
+Har en lista med saker som jag vill ha gjort, d.v.s kompenter.
+
+____
+
+Git ignore
+
+När koden misslyckas att förklra, var försiktig med kommentarer, tänk efter.
+
+
+How to name a class css:
+
+
+
+____
+
+What to have in your one page: komponenter:
+*navbar
+*lite gallery och information om mig själv
+
+Att tänka på:
+*Varför ser det bra ut? (storlek, avstånd, nyans, stil?)
