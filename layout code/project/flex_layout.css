@@ -1,0 +1,73 @@
+.iframe_container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%
+}
+
+.iframe_video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.iframe_heading {
+    position: absolute;
+    left: 50%;
+    margin-left: -50px;
+    top: 50%;
+    margin-top: -50px;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
+
+.flex_container {
+    margin: 40px 0 40px 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10px;
+    /*For gap, use a not supported quarry and do it like https://bryanlrobinson.com/blog/gap-provides-bright-future-for-margins-in-flex-as-well-as-grid/ */
+}
+
+.flex_container div {
+    border: 1px black solid;
+}
+
+.flex_size1 {
+    flex: 1 1 calc(100% - 1rem)
+}
+
+.flex_size2 {
+    flex: 1 1 calc((100% / 2) - 1rem)
+}
+
+.flex_size3 {
+    flex: 1 1 calc((100% / 3) - 1rem)
+}
+
+@media screen and (max-width: 1024px) {
+    .flex_size3 {
+        flex: 1 1 calc((100% / 2) - 1rem)
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .flex_size2 {
+        flex: 1 1 calc(100% - 1rem)
+    }
+
+    .flex_size3 {
+        flex: 1 1 calc(100% - 1rem)
+    }
+}

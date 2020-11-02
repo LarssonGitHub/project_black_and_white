@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main { margin: 0 4rem;}
+
+header, footer {
+    background-color: beige;
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
